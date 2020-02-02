@@ -11,7 +11,7 @@ The Authors working on a script which use only maple.
 ## calculating E(dV)
 to calculate the expectation of E(dV) 'run mathematica/EdV.nb'
 ## QE with maple
-run the maple-skript according to the System and the P-matrix. For instance:
+run the maple-script according to the system and the P-matrix. For instance:
 'run maple/Sys1PIdentity.mw'
 ## convergence region
 'run mathematica/regions.nb'
