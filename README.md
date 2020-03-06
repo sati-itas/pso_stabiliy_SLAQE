@@ -1,6 +1,8 @@
 # Convergence analysis of particle swarm optimization using stochastic Lyapunov functions and quantifier elimination
 We present a computational procedure for stability analysis of particle swarm optimizer (PSO) and show that this approach leads to an extension of previously known stability regions for PSO under stagnation assumptions.
 
+See preprint: https://arxiv.org/abs/2002.01673
+
 # Requirements
 - Mathematica (>9.0)
 - Maple
